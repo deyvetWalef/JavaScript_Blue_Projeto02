@@ -1,8 +1,10 @@
 {
   "devDependencies": {
+    "nodemon": "^2.0.16",
     "prettier": "2.6.2"
   },
   "dependencies": {
+    "chalk": "^5.0.1",
     "express": "^4.17.3",
     "prompt-sync": "^4.2.0"
   }
